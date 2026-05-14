@@ -2,18 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://le.ac.uk/people/deden-habibi-ali-alfathimy'>University of Leicester</a>. A _Future 100 PhD_ scholar.
+subtitle: <a href='https://le.ac.uk/people/deden-habibi-ali-alfathimy'>University of Leicester</a>. A Future 100 PhD scholar.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Space Park Leicester</p>
-    <p>92 Corporation Road</p>
-    <p>Space City</p>
-    <p>Leicester LE4 5SP</p>
+    <address>
+    <p>Space Park Leicester<br/></p>
+    <p>92 Corporation Road<br/></p>
+    <p>Space City<br/></p>
+    <p>Leicester LE4 5SP<br/></p>
     <p>United Kingdom</p>
+    </address>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
