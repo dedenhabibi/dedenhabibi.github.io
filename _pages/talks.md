@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/
 title: talks
 description: Talks, webinar, course materials, schedules, and resources for dissemination.
-nav: true
+nav: false
 nav_order: 6
 calendar: true
 ---
