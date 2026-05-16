@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
@@ -34,11 +41,11 @@ ninja.data = [{
             window.location.href = "/blog/2026/first-post/";
           
         },
-      },{id: "post-error-the-request-could-not-be-satisfied",
+      },{id: "post-what-explains-separatist-islamist-and-communal-conflicts-in-indonesia-lse-review-of-books",
         
-          title: 'ERROR: The request could not be satisfied <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'What explains separatist, Islamist and communal conflicts in Indonesia? - LSE Review of... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "",
+        description: "Contesting Indonesia by Kirsten Schulze proposes a new framework of a national imaginary for understanding Islamist, separatist &amp; communal violence in Indonesia.",
         section: "Posts",
         handler: () => {
           
